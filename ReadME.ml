@@ -1,5 +1,7 @@
 # N roberts
+
 # IT 145 - Paint Project
+
 # 🎨 Java Paint Gallon Calculator
 
 ## 📝 Overview
