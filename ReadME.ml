@@ -24,4 +24,5 @@ This is a simple Java program that calculates how many gallons of paint are need
 1. Run the program 💻
 2. Enter the height and width of the wall 🏠
 3. Get the paint required 🎨 and number of cans needed 🛒
-4. Done! 🎉
+
+Thank you for taking a look at my Java project!
