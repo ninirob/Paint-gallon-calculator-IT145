@@ -6,6 +6,9 @@
 
 # 🎨 Java Paint Gallon Calculator
 
+`Under 
+Src> paint2.java (https://github.com/ninirob/Paint-gallon-calculator-IT145/blob/main/src/Paint2.java)`
+
 ## 📝 Overview
 This is a simple Java program that calculates how many gallons of paint are needed to paint a wall based on user input for wall height and width. It also calculates how many cans of paint are required, rounding up to the nearest whole can.
 
